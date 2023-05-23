@@ -1,0 +1,268 @@
+{
+    "carrousel" : [
+        {
+            "id": 1,
+            "baseline": "Découvrez les nouveautés de nos artisans",
+            "img" : ""
+        },
+        {
+            "id": 2,
+            "baseline": "Des créations uniques",
+            "img" : ""
+        },
+        {
+            "id": 3,
+            "baseline": "Plus qu'un métier, une passion",
+            "img" : ""
+        },
+        {
+            "id": 4,
+            "baseline": "Un art qui va vous durer",
+            "img" : ""
+        }
+    ],
+    "citations" : [
+        {
+            "id": 1,
+            "citation_txt" : "Accueillez vos invités avec style grâce à notre sélection de mobilier, ajoutez une touche d'élégance à votre salon avec notre gamme de tables basses uniques, fabriquées à partir des matériaux les plus fins par des artisans passionnés.",
+            "img": ""
+        },
+        {
+            "id": 2,
+            "citation_txt" : "Nos artisans travaillent avec des matériaux de qualité supérieure pour créer des meubles durables et intemporels. Chaque pièce est soigneusement fabriquée à la main, ce qui garantit une qualité de fabrication inégalée. ",
+            "img": ""
+        }
+    ],
+    "artist-of-the-month" : [
+        {
+            "id" : 1,
+            "name_artist": "George Nakashima",
+            "informations" : "George Nakashima, un maître incontesté du design de meubles du 20e siècle, était un artisan américain d'origine japonaise dont le travail fusionnait harmonieusement la philosophie orientale et l'architecture moderne. Inspiré par le concept japonais de wabi-sabi, Nakashima célébrait la beauté des formes organiques et des imperfections naturelles dans ses créations en bois massif. Ses meubles, mettant en valeur l'essence même du matériau, sont devenus emblématiques et sont aujourd'hui très recherchés.",
+            "img" : ""
+        }
+    ],
+    "partners" : [
+        {
+            "id" : 1,
+            "name_partners" : "S. Yamauchi",
+            "img" : ""
+        },
+        {
+            "id" : 2,
+            "name_partners" : "L. Avenel",
+            "img" : ""
+        },
+        {
+            "id" : 3,
+            "name_partners" : "R.A Woodcraft",
+            "img" : ""
+        },
+        {
+            "id" : 4,
+            "name_partners" : "D. Lumber",
+            "img" : ""
+        },
+        {
+            "id" : 5,
+            "name_partners" : "B. Spector",
+            "img" : ""
+        }
+    ],
+    "ecology" : [
+        {
+            "id": 1,
+            "ecology_txt" : "Parce que nous pensons que l'écologie est un sujet crucial, Wood Picker et ses artisans partenaires s'engagent dans la lutte écologique.",
+            "img": ""
+        }
+    ],
+    "opinions" : [
+        {
+            "id": 1,
+            "opinion_txt": "J'ai été ébahie par la qualité de l’article commandé",
+            "opinion_author": "Madelaine Delcroix"
+        },
+        {
+            "id": 2,
+            "opinion_txt": "Le catalogue proposé est impressionnant sur ce site ! ",
+            "opinion_author": "Fabrice Renaud"
+        },
+        {
+            "id": 3,
+            "opinion_txt": "Produit conforme, belle ouvrage je recommande.",
+            "opinion_author": "Daniel Bertrand"
+        }
+    ],
+    "articles": [
+        {
+            "id": 1,
+            "title": "Ebéniste sculpteur",
+            "article_txt": "Le sculptage du bois est une pratique artistique ancestrale qui continue de fasciner les amateurs d'art et les artistes contemporains. Cette technique consiste à sculpter le bois brut à l'aide d'outils manuels pour créer des formes et des motifs en relief. Aujourd'hui, le sculptage du bois [...]",
+            "img": ""
+        },
+        {
+            "id": 2,
+            "title": "L’art de la maqueterie",
+            "article_txt": "Un métier en pleine évolution, l’ébénisterie traditionnel connaît un réel succès. Les professionnels d’aujourd’hui deviennent de plus en plus créatifs grâce à l’apparition de nombreuses techniques et outils à la pointe de la technologie. Souvent confondu à la menuiserie[...]",
+            "img": ""
+        }
+    ],
+
+    "items" : [
+        {
+            "id": 1,
+            "name_product": "Minguren Desk",
+            "creator": "George Nakashima",
+            "price": "€1.599,00",
+            "img": ""
+
+        },
+        {
+            "id": 2,
+            "name_product": "Rubenstein Desk",
+            "creator": "George Nakashima",
+            "price": "€999,00",
+            "img": ""
+
+        },
+        {
+            "id": 3,
+            "name_product": "Conoid Desk",
+            "creator": "Satoshi Yamauchi",
+            "price": "€3.999,00",
+            "img": ""
+
+        },
+        {
+            "id": 4,
+            "name_product": "Turned Leg Desk",
+            "creator": "George Nakashima",
+            "price": "€1.899,00",
+            "img": ""
+
+        },
+        {
+            "id": 5,
+            "name_product": "Banyan Desk",
+            "creator": "Seth Rolland",
+            "price": "€2.199,00",
+            "img": ""
+
+        },
+        {
+            "id": 6,
+            "name_product": "Timerous Desk",
+            "creator": "Seth Rolland",
+            "price": "€1.650,00",
+            "img": ""
+
+        },
+        {
+            "id": 7,
+            "name_product": "Elytre Desk",
+            "creator": "Ludovic Avenel",
+            "price": " €2.099,00",
+            "img": ""
+
+        },
+        {
+            "id": 8,
+            "name_product": "Ruben Desk",
+            "creator": "Ludovic Avenel",
+            "price": "€899,00",
+            "img": ""
+
+        },
+        {
+            "id": 9,
+            "name_product": "Volumen Desk",
+            "creator": "Ludovic Avenel",
+            "price": "€750,00",
+            "img": ""
+
+        },
+        {
+            "id": 10,
+            "name_product": "Picked Off Desk",
+            "creator": "Ludovic Avenel",
+            "price": "€1.199,00",
+            "img": ""
+
+        },
+        {
+            "id": 11,
+            "name_product": "Kendall Walnut Desk",
+            "creator": "Kasper Gborjen",
+            "price": "€1.799,00",
+            "img": ""
+
+        },
+        {
+            "id": 12,
+            "name_product": "Armitage Desk",
+            "creator": "Kasper Gborjen",
+            "price": "€3.199,00",
+            "img": ""
+
+        }
+    ],
+    "product-of-the-week" : [
+        {
+            "id": 1,
+            "name_product": "Turned Leg Desk",
+            "description": "Aujourd’hui Wood Picker vous présente le Turned Leg Desk. Ce magnifique bureau réalisé en bois d’ébène de macassar est une création mesurant 75x155 cm de l’ébéniste japonais George Nakashima. Élégant et fonctionnel, son esthétique apportera de la sobriété à votre intérieur.",
+            "img" : ""
+        },
+        {
+            "id": 2,
+            "name_product": "Armitage Desk",
+            "description": "Aujourd’hui Wood Picker vous présente le Armitage Desk. Ce magnifique bureau réalisé en bois d’ébène de macassar est une création mesurant 125x155 cm de l’ébéniste Kasper Gborjen. Élégant et fonctionnel, son esthétique apportera une touche d'élégance supplémentaire à votre intérieur.",
+            "img" : ""
+
+        },
+        {
+            "id": 3,
+            "name_product": "Conoid Desk",
+            "description": "Aujourd’hui Wood Picker vous présente le Conoid Desk. Ce magnifique bureau réalisé en bois d’ébène de macassar est une création mesurant 90x155 cm de l’ébéniste Satoshi Yamau. Élégant et fonctionnel, son esthétique apportera une présence supplémentaire à votre intérieur.",
+            "img" : ""
+
+        },
+        {
+            "id": 4,
+            "name_product": "Kendall Walnut Desk",
+            "description": "Aujourd’hui Wood Picker vous présente le Kendall Walnut Desk. Ce magnifique bureau réalisé en bois d’ébène de macassar est une création mesurant 70x155 cm de l’ébéniste Kasper Gborjen. Élégant et fonctionnel, son esthétique apportera une touche de maturité à votre intérieur.",
+            "img" : ""
+
+        }
+    ],
+    "sections" : [
+        {
+            "id" : 1,
+            "name_section": "Salon",
+            "img": ""
+        },
+        {
+            "id" : 2,
+            "name_section": "Séjour",
+            "img": ""
+
+        },
+        {
+            "id" : 3,
+            "name_section": "Chambre",
+            "img": ""
+
+        },
+        {
+            "id" : 4,
+            "name_section": "Bureau",
+            "img": ""
+
+        },
+        {
+            "id" : 5,
+            "name_section": "Décoration",
+            "img": ""
+
+        }
+    ]
+}
